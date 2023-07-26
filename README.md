@@ -1,3 +1,4 @@
+Weather Application
 Introduction
 Welcome to our Weather Application! This application allows users to access real-time weather information for various locations around the world. It provides users with accurate and up-to-date weather data to plan their daily activities accordingly.
 
